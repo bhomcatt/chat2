@@ -1,0 +1,17 @@
+#container1{
+    background:white;
+    width:700px;
+    height:330px;
+    border-radius:30px;
+    color:black
+}
+h2{
+    color:aliceblue;
+}
+#container2{
+    background:rgba(196, 108, 255, 0.32);
+    width:700px;
+    height:330px;
+    border-radius:30px;
+    color:black
+}
